@@ -29,7 +29,7 @@ A modern, responsive news application built with **Flutter**. It delivers real-t
 
 ## 📸 Screenshots
 
-| Home Screen | Article Sheet | Splash Screen |
+| Splash Screen | Home Screen | Article Sheet |
 | :---: | :---: | :---: |
  ![Splash Screen](screenshoots/splash_screen.png) | ![Home Screen](screenshoots/home_screen.png) | ![Article Sheet](screenshoots/news_screen.png) |
 
